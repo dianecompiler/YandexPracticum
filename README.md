@@ -4,4 +4,4 @@
 
 | Название проекта | Описание | Используемые библиотеки |
 |:-----------------|:---------|:------------------------|
-|[Музыка больших городов]([адрес://ссылки.здесь "Заголовок ссылки"](https://github.com/TrefilovaDiana/portfolio/tree/main/Big_cities_music))| | |
+|[Музыка больших городов](https://github.com/TrefilovaDiana/portfolio/tree/main/Big_cities_music)| | |
